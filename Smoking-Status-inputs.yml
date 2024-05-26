@@ -1,0 +1,42 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/smoking-status-p18-stopping---primary.py
+inputModule3:
+  class: File
+  path: python/smoking-status-p18-nonsmoker---primary.py
+inputModule4:
+  class: File
+  path: python/smoking-status-p18---primary.py
+inputModule5:
+  class: File
+  path: python/smoking-status-p18-restarted---primary.py
+inputModule6:
+  class: File
+  path: python/smoking-status-p18-tobacco---primary.py
+inputModule7:
+  class: File
+  path: python/smoking-status-p18-cigar---primary.py
+inputModule8:
+  class: File
+  path: python/smoking-status-p18-consumption---primary.py
+inputModule9:
+  class: File
+  path: python/unknown-smoking-status-p18---primary.py
+inputModule10:
+  class: File
+  path: python/smoking-status-p18-amount---primary.py
+inputModule11:
+  class: File
+  path: python/smoking-status-p18-stopped---primary.py
+inputModule12:
+  class: File
+  path: python/current-smoking-status-p18---primary.py
+inputModule13:
+  class: File
+  path: python/smoking-status-p18-trying---primary.py
+inputModule14:
+  class: File
+  path: python/output-cases.py
